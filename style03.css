@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(255, 233, 161);
+}
+
+.titulo03 h1 {
+    text-align: center;
+    background-color: rgb(248, 212, 113);
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    font-size: 40px;
+}
+
+.caracteristicas03 h2 {
+    text-align: center;
+    font-size: 30px;
+}
+.caracteristicas03 p {
+    text-align: center;
+    font-size: 25px;
+}
+.caracteristicas03 img {
+    width: 600px;
+    margin-left: 35%;
+}
+
+hr {
+    border: 4px solid;
+    border-color: rgb(255, 211, 88);
+}
+
+.ingredientes03 h3 {
+    font-size: 30px;
+}
+.ingredientes03 ul {
+    font-size: 25px;
+}
+
+.modoDePreparo03 h3 {
+    font-size: 30px;
+}
+.modoDePreparo03 ul {
+    font-size: 25px;
+}
+
+.outrasReceitas03 h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+a img {
+    width: 300px;
+    margin: 30px;
+}
